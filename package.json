@@ -1,0 +1,21 @@
+{
+  "name": "reactive-react-highland",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "BSD-2-Clause",
+  "scripts": {
+      "dev": "parcel ./index.html",
+      "dist": "parcel build ./index.html"
+  },
+  "dependencies": {
+    "highland": "^2.13.4",
+    "jquery": "^3.4.1",
+    "parcel-bundler": "^1.12.3",
+    "react": "^16.0.0",
+    "react-dom": "^16.8.6"
+  },
+  "devDependencies": {
+    "sass": "^1.20.1",
+    "typescript": "^3.4.5"
+  }
+}
